@@ -31,7 +31,7 @@ app = FastAPI(title="Prueba Técnica Falabella 2021",
               version="0.0.1",
               contact={
                   "name": "Cristian Moya G",
-                  "url": "https://github.com/cmoyag/api_rest_phyton",
+                  "url": "https://github.com/cmoyag/api_rest_python",
                   "email": "cristian8x@gmail.com",
                                 },
               license_info={
