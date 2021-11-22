@@ -1,5 +1,4 @@
-# api_rest_phyton
-Prueba Técnica Falabella 2021
+# FAST API: Prueba Técnica Falabella 2021
 
 Pasos para la instalacion:
 
